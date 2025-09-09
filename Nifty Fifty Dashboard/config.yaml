@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    aiman:
+      email: aiman@example.com
+      name: Aiman
+      password: '$2b$12$QjNtH1Cu3wCZb6rBN1P9VuHmEQbNzYkuFURVk.ipuSdZy0lOFB.i2'
+
+cookie:
+  name: nifty_dashboard
+  key: some_random_key
+  expiry_days: 30
